@@ -1,7 +1,7 @@
 const path = require('path')
 module.exports = {
   version: "3.6",
-  title: "sdg",
+  title: "NEMO ASR MAL https://huggingface.co/spaces/trysem/nemomlx ",
   description: "",
   icon: "icon.png",
   menu: async (kernel, info) => {
