@@ -1,6 +1,6 @@
+https://github.com/AI4Bharat/NeMo
 huggingface_hub===0.20.3
 torch
-https://github.com/AI4Bharat/NeMo
 numba
 numpy<2
 onnx>=1.7.0
