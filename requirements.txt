@@ -1,4 +1,4 @@
-https://github.com/AI4Bharat/NeMo
+git+https://github.com/AI4Bharat/NeMo
 huggingface_hub===0.23.2
 torch
 numba
