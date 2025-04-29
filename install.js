@@ -6,6 +6,7 @@ module.exports = {
       params: {
         message: [
           "git clone https://github.com/AI4Bharat/Nemo app",
+          "git https://huggingface.co/spaces/trysem/nemoml,
         ]
       }
     },
